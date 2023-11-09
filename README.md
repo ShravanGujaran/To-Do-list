@@ -30,7 +30,6 @@ Check my css folder there is a Screenshot
 
 ## Getting Started
 
-To run the Todo List web app on your local machine, follow these steps:
 
 
 
