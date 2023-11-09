@@ -12,7 +12,7 @@ This repository contains a simple and elegant Todo List web app built using Tail
 - Change to-dos status
 - Filter to-dos by status
 
-## Live Demo
+
 
 
 
